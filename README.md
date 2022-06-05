@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abubakarirfan
 - 👀 I’m interested in software development
-- 🌱 I program in Ruby, PHP, Javascript, C#, SQL and C
+- 🌱 I program in Java, PHP, Javascript, C#, SQL and C++
 - 📫 How to reach me: email me at abubakar.irfan6@gmail.com
 
 <!---
