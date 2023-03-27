@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ReactJs, React Native, and Django<br>🌱 I’m currently learning MERN Stack<br>⚡ Seeking Web and Mobile development opportunities <br>📖 Interested in learning Artificial Intelligence, Natural Language Processing, Neural Networks, and Machine Learning
+🔭 I’m currently working on ReactJs, React Native, and Django<br>🌱 I’m currently learning MERN Stack and Machine Learning<br>⚡ Seeking Web development opportunities <br>📖 Interested in learning Artificial Intelligence, Natural Language Processing, Neural Networks, and Machine Learning
 
 
 ## 🌐 Socials:
